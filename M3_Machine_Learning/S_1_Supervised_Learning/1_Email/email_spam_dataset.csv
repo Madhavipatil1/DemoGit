@@ -1,0 +1,49 @@
+Email,Label
+"You won a prize! Click here to claim.",spam
+"Meeting at 3 PM",not spam
+"Limited offer! Buy now!",spam
+"Your invoice is ready",not spam
+"Earn money fast",spam
+"Project submission deadline",not spam
+"Congratulations, you have been selected for a gift!",spam
+"Your order has been shipped.",not spam
+"Earn $1000 from home!",spam
+"Your report is due tomorrow",not spam
+"Exclusive offer! Discount available",spam
+"Reminder: Doctor appointment at 5 PM",not spam
+"Double your income in a week!",spam
+"Team meeting rescheduled to Friday",not spam
+"Claim your free vacation now!",spam
+"Your package is out for delivery",not spam
+"Congratulations! You are a winner.",spam
+"Family dinner this Sunday",not spam
+"Free money, just click here!",spam
+"Your payment has been processed",not spam
+"Investment opportunity: High returns!",spam
+"School will be closed on Monday",not spam
+"Get rich quick, no experience needed!",spam
+"Parent-teacher meeting on Wednesday",not spam
+"Earn easy cash online",spam
+"Work update: Please read",not spam
+"Win a brand new iPhone!",spam
+"Birthday party invitation",not spam
+"Get cash fast with no strings attached",spam
+"Office maintenance scheduled for Thursday",not spam
+"Get your free gift card now!",spam
+"Submit your expense report",not spam
+"Lottery winner! Claim your prize now",spam
+"New project assignments for next week",not spam
+"100% guaranteed returns on investment!",spam
+"Monthly team performance review",not spam
+"Unlock exclusive deals!",spam
+"Project update: Milestone achieved",not spam
+"You're a winner! Redeem your prize",spam
+"Budget report for this quarter",not spam
+"Act now to get a free car!",spam
+"Weekend trip details",not spam
+"Don't miss this limited-time offer!",spam
+"New employee orientation on Monday",not spam
+"Exclusive prize waiting for you",spam
+"Please review the attached document",not spam
+"Click here to earn more money",spam
+"Your meeting has been confirmed",not spam

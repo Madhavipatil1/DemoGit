@@ -1,0 +1,81 @@
+ID,SportName,IndoorOutdoor,NoOfPlayers,CountryOrigin,SportUsesBall,PopularityRating,EquipmentCost,OlympicSport,Season
+1,Football,Outdoor,11,England,Yes,10,High,Yes,All Year
+2,Basketball,Indoor,5,USA,Yes,10,Medium,Yes,All Year
+3,Tennis,Outdoor,2,France,Yes,9,High,Yes,All Year
+4,Swimming,Indoor,1,Greece,No,8,Low,Yes,Summer
+5,Cricket,Outdoor,11,England,Yes,8,Medium,No,All Year
+6,Table Tennis,Indoor,2,England,Yes,7,Low,Yes,All Year
+7,Baseball,Outdoor,9,USA,Yes,8,High,Yes,Spring
+8,Hockey,Outdoor,11,Canada,No,8,High,Yes,Winter
+9,Volleyball,Indoor,6,USA,Yes,7,Medium,Yes,Summer
+10,Badminton,Indoor,2,India,No,7,Low,Yes,All Year
+11,Rugby,Outdoor,15,England,Yes,7,High,No,All Year
+12,Boxing,Indoor,2,Greece,No,6,Medium,Yes,All Year
+13,Golf,Outdoor,1,Scotland,No,6,High,Yes,All Year
+14,Skating,Indoor,1,USA,No,6,Low,Yes,Winter
+15,Skiing,Outdoor,1,Norway,No,6,Medium,Yes,Winter
+16,Cycling,Outdoor,1,France,No,5,High,Yes,Summer
+17,Wrestling,Indoor,2,Greece,No,5,Low,Yes,Summer
+18,Archery,Outdoor,1,England,No,5,Medium,Yes,Summer
+19,Bowling,Indoor,1,England,No,4,Low,No,All Year
+20,Fencing,Indoor,2,France,No,4,Medium,Yes,Summer
+21,Surfing,Outdoor,1,Hawaii,No,4,Medium,No,All Year
+22,Gymnastics,Indoor,1,Greece,No,4,High,Yes,Summer
+23,Karate,Indoor,1,Japan,No,4,Low,No,All Year
+24,Taekwondo,Indoor,1,Korea,No,4,Low,Yes,Summer
+25,Rowing,Outdoor,4,England,No,3,Medium,Yes,Summer
+26,Diving,Indoor,1,Greece,No,3,Low,Yes,Summer
+27,Judo,Indoor,1,Japan,No,3,Low,Yes,Summer
+28,Kayaking,Outdoor,1,Canada,No,3,Medium,Yes,Summer
+29,Sailing,Outdoor,2,England,No,3,High,Yes,Summer
+30,Weightlifting,Indoor,1,Greece,No,3,Low,Yes,Summer
+31,Skateboarding,Outdoor,1,USA,No,3,Low,No,All Year
+32,Climbing,Outdoor,1,France,No,2,Medium,No,All Year
+33,Equestrian,Outdoor,1,England,No,2,High,Yes,Summer
+34,Lacrosse,Outdoor,10,Canada,Yes,2,Medium,No,All Year
+35,Ice Hockey,Indoor,6,Canada,Yes,2,High,Yes,Winter
+36,Bobsledding,Outdoor,4,Switzerland,No,2,Medium,Yes,Winter
+37,Speed Skating,Indoor,1,Norway,No,2,Medium,Yes,Winter
+38,Curling,Indoor,4,Scotland,No,2,Low,Yes,Winter
+39,Snowboarding,Outdoor,1,USA,No,2,High,Yes,Winter
+40,Field Hockey,Outdoor,11,England,Yes,2,Medium,Yes,Summer
+41,Handball,Indoor,7,Germany,Yes,2,Medium,Yes,Summer
+42,Water Polo,Indoor,7,Hungary,Yes,2,Medium,Yes,Summer
+43,Softball,Outdoor,9,USA,Yes,2,Medium,No,Spring
+44,Synchronized Swimming,Indoor,8,Greece,No,2,Low,Yes,Summer
+45,Biathlon,Outdoor,1,Norway,No,2,Medium,Yes,Winter
+46,Luge,Outdoor,1,Germany,No,2,Low,Yes,Winter
+47,Skeleton,Outdoor,1,England,No,2,Low,Yes,Winter
+48,Triathlon,Outdoor,1,France,No,2,High,Yes,Summer
+49,Paragliding,Outdoor,1,France,No,2,Medium,No,All Year
+50,Frisbee,Outdoor,7,USA,Yes,2,Low,No,All Year
+51,Snooker,Indoor,1,England,No,1,Low,No,All Year
+52,Darts,Indoor,1,England,No,1,Low,No,All Year
+53,Cheerleading,Indoor,1,USA,No,1,Medium,No,All Year
+54,Squash,Indoor,2,England,No,1,Medium,No,All Year
+55,Motor Racing,Outdoor,1,France,No,1,High,Yes,All Year
+56,Bull Riding,Outdoor,1,Spain,No,1,Medium,No,All Year
+57,Futsal,Indoor,5,Brazil,Yes,1,Medium,No,All Year
+58,Netball,Indoor,7,England,Yes,1,Medium,No,All Year
+59,Parkour,Outdoor,1,France,No,1,Medium,No,All Year
+60,Racquetball,Indoor,2,USA,No,1,Low,No,All Year
+61,Polo,Outdoor,4,England,No,1,High,No,All Year
+62,Sumo,Indoor,2,Japan,No,1,Low,No,All Year
+63,Kabaddi,Outdoor,7,India,No,1,Medium,No,All Year
+64,Sepak Takraw,Outdoor,3,Malaysia,Yes,1,Medium,No,All Year
+65,Petanque,Outdoor,2,France,Yes,1,Low,No,All Year
+66,Bocce,Outdoor,4,Italy,Yes,1,Low,No,All Year
+67,Dragon Boat Racing,Outdoor,10,China,No,1,Medium,No,All Year
+68,Ski Jumping,Outdoor,1,Norway,No,1,High,Yes,Winter
+69,Nordic Combined,Outdoor,1,Norway,No,1,Medium,Yes,Winter
+70,Freestyle Skiing,Outdoor,1,Canada,No,1,High,Yes,Winter
+71,Biathlon,Outdoor,1,Norway,No,1,Medium,Yes,Winter
+72,Telemark Skiing,Outdoor,1,Norway,No,1,Low,No,Winter
+73,Ice Climbing,Outdoor,1,France,No,1,Medium,No,Winter
+74,Cross Country Skiing,Outdoor,1,Norway,No,1,High,Yes,Winter
+75,Snowmobiling,Outdoor,1,Canada,No,1,High,No,Winter
+76,Ice Boating,Outdoor,1,Netherlands,No,1,Medium,No,Winter
+77,Parasailing,Outdoor,1,USA,No,1,Medium,No,Summer
+78,Kite Surfing,Outdoor,1,France,No,1,Medium,No,Summer
+79,Wakeboarding,Outdoor,1,USA,No,1,Medium,No,Summer
+80,Bungee Jumping,Outdoor,1,New Zealand,No,1,Medium,No,Summer

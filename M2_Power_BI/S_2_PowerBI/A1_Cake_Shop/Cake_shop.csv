@@ -1,0 +1,71 @@
+OrderID,CustomerName,CakeType,Quantity,Price,Rating,PaymentMethod,Delivery,CustomerType,Feedback
+1,Customer1,Chocolate,1,15,1,Cash,Yes,New,Good
+2,Customer2,Vanilla,2,20,2,Card,No,Returning,Average
+3,Customer3,Strawberry,3,25,3,Cash,Yes,New,Excellent
+4,Customer4,Red Velvet,4,30,4,Card,No,Returning,Poor
+5,Customer5,Lemon,5,35,5,Cash,Yes,New,Very Good
+6,Customer6,Chocolate,1,15,1,Card,No,Returning,Good
+7,Customer7,Vanilla,2,20,2,Cash,Yes,New,Average
+8,Customer8,Strawberry,3,25,3,Card,No,Returning,Excellent
+9,Customer9,Red Velvet,4,30,4,Cash,Yes,New,Poor
+10,Customer10,Lemon,5,35,5,Card,No,Returning,Very Good
+11,Customer11,Chocolate,1,15,1,Cash,Yes,New,Good
+12,Customer12,Vanilla,2,20,2,Card,No,Returning,Average
+13,Customer13,Strawberry,3,25,3,Cash,Yes,New,Excellent
+14,Customer14,Red Velvet,4,30,4,Card,No,Returning,Poor
+15,Customer15,Lemon,5,35,5,Cash,Yes,New,Very Good
+16,Customer16,Chocolate,1,15,1,Card,No,Returning,Good
+17,Customer17,Vanilla,2,20,2,Cash,Yes,New,Average
+18,Customer18,Strawberry,3,25,3,Card,No,Returning,Excellent
+19,Customer19,Red Velvet,4,30,4,Cash,Yes,New,Poor
+20,Customer20,Lemon,5,35,5,Card,No,Returning,Very Good
+21,Customer21,Chocolate,1,15,1,Cash,Yes,New,Good
+22,Customer22,Vanilla,2,20,2,Card,No,Returning,Average
+23,Customer23,Strawberry,3,25,3,Cash,Yes,New,Excellent
+24,Customer24,Red Velvet,4,30,4,Card,No,Returning,Poor
+25,Customer25,Lemon,5,35,5,Cash,Yes,New,Very Good
+26,Customer26,Chocolate,1,15,1,Card,No,Returning,Good
+27,Customer27,Vanilla,2,20,2,Cash,Yes,New,Average
+28,Customer28,Strawberry,3,25,3,Card,No,Returning,Excellent
+29,Customer29,Red Velvet,4,30,4,Cash,Yes,New,Poor
+30,Customer30,Lemon,5,35,5,Card,No,Returning,Very Good
+31,Customer31,Chocolate,1,15,1,Cash,Yes,New,Good
+32,Customer32,Vanilla,2,20,2,Card,No,Returning,Average
+33,Customer33,Strawberry,3,25,3,Cash,Yes,New,Excellent
+34,Customer34,Red Velvet,4,30,4,Card,No,Returning,Poor
+35,Customer35,Lemon,5,35,5,Cash,Yes,New,Very Good
+36,Customer36,Chocolate,1,15,1,Card,No,Returning,Good
+37,Customer37,Vanilla,2,20,2,Cash,Yes,New,Average
+38,Customer38,Strawberry,3,25,3,Card,No,Returning,Excellent
+39,Customer39,Red Velvet,4,30,4,Cash,Yes,New,Poor
+40,Customer40,Lemon,5,35,5,Card,No,Returning,Very Good
+41,Customer41,Chocolate,1,15,1,Cash,Yes,New,Good
+42,Customer42,Vanilla,2,20,2,Card,No,Returning,Average
+43,Customer43,Strawberry,3,25,3,Cash,Yes,New,Excellent
+44,Customer44,Red Velvet,4,30,4,Card,No,Returning,Poor
+45,Customer45,Lemon,5,35,5,Cash,Yes,New,Very Good
+46,Customer46,Chocolate,1,15,1,Card,No,Returning,Good
+47,Customer47,Vanilla,2,20,2,Cash,Yes,New,Average
+48,Customer48,Strawberry,3,25,3,Card,No,Returning,Excellent
+49,Customer49,Red Velvet,4,30,4,Cash,Yes,New,Poor
+50,Customer50,Lemon,5,35,5,Card,No,Returning,Very Good
+51,Customer51,Chocolate,2,20,2,Cash,Yes,New,Good
+52,Customer52,Vanilla,3,25,3,Card,No,Returning,Average
+53,Customer53,Strawberry,4,30,4,Cash,Yes,New,Excellent
+54,Customer54,Red Velvet,5,35,5,Card,No,Returning,Poor
+55,Customer55,Lemon,1,15,1,Cash,Yes,New,Very Good
+56,Customer56,Chocolate,2,20,2,Card,No,Returning,Good
+57,Customer57,Vanilla,3,25,3,Cash,Yes,New,Average
+58,Customer58,Strawberry,4,30,4,Card,No,Returning,Excellent
+59,Customer59,Red Velvet,5,35,5,Cash,Yes,New,Poor
+60,Customer60,Lemon,1,15,1,Card,No,Returning,Very Good
+61,Customer61,Chocolate,2,20,2,Cash,Yes,New,Good
+62,Customer62,Vanilla,3,25,3,Card,No,Returning,Average
+63,Customer63,Strawberry,4,30,4,Cash,Yes,New,Excellent
+64,Customer64,Red Velvet,5,35,5,Card,No,Returning,Poor
+65,Customer65,Lemon,1,15,1,Cash,Yes,New,Very Good
+66,Customer66,Chocolate,2,20,2,Card,No,Returning,Good
+67,Customer67,Vanilla,3,25,3,Cash,Yes,New,Average
+68,Customer68,Strawberry,4,30,4,Card,No,Returning,Excellent
+69,Customer69,Red Velvet,5,35,5,Cash,Yes,New,Poor
+70,Customer70,Lemon,1,15,1,Card,No,Returning,Very Good
